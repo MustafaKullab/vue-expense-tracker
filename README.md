@@ -1,44 +1,89 @@
-# vue-expense-tracker
+# 💸 Expense Tracker App (Vue.js)
 
-This template should help get you started developing with Vue 3 in Vite.
+A modern and responsive **Expense Tracker** built باستخدام **Vue.js** لتمكين المستخدمين من تتبع الدخل والمصروفات بسهولة مع تحديث فوري للرصيد.
 
-## Recommended IDE Setup
+---
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🚀 Live Demo
 
-## Recommended Browser Setup
+🔗 https://vue-expense-tracker-one-phi.vercel.app/
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+---
 
-## Customize configuration
+## 📌 Features
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+* 💰 Real-time balance calculation
+* ➕ Add income and expense transactions
+* ➖ Automatic deduction from balance
+* 📊 Transaction history list
+* 🧮 Separate tracking for income and expenses
+* 📱 Responsive and clean UI
 
-## Project Setup
+---
 
-```sh
+## 🛠️ Built With
+
+* Vue.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+
+---
+
+## 🎯 Project Purpose
+
+This project was built as a **practice application** to strengthen front-end development skills, focusing on:
+
+* Component-based architecture in Vue
+* State management (basic level)
+* Handling user input and dynamic updates
+* Building interactive UI
+
+---
+
+## 📚 What I Learned
+
+* Managing reactive data in Vue
+* Structuring small-scale applications
+* Handling form inputs and events
+* Updating UI based on state changes
+
+---
+
+## 🔧 Setup & Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/MustafaKullab/vue-expense-tracker.git
+
+# Navigate into the project folder
+cd vue-expense-tracker
+
+# Install dependencies
 npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
+# Run development server
 npm run dev
 ```
 
-### Compile and Minify for Production
+---
 
-```sh
-npm run build
-```
+## 📈 Future Improvements
 
-### Lint with [ESLint](https://eslint.org/)
+* 💾 Save data using localStorage
+* ✏️ Edit and delete transactions
+* 🔍 Filter/search transactions
+* 🌙 Dark mode support
+* 📊 Charts for data visualization
 
-```sh
-npm run lint
-```
+---
+
+## 👤 Author
+
+* GitHub: https://github.com/MustafaKullab
+
+---
+
+## 🙌 Acknowledgments
+
+Inspired by common front-end challenges and real-world financial tracking apps.
