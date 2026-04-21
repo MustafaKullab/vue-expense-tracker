@@ -1,6 +1,11 @@
 # 💸 Expense Tracker App (Vue.js)
 
-A modern and responsive **Expense Tracker** built باستخدام **Vue.js** لتمكين المستخدمين من تتبع الدخل والمصروفات بسهولة مع تحديث فوري للرصيد.
+A high-performance, responsive Expense Tracker application built with Vue.js 3 and Vite. This tool provides users with a seamless experience to manage their financial health by tracking daily income and expenditures with real-time balance synchronization.
+
+---
+
+## 📸 Preview
+<img width="602" height="905" alt="image" src="https://github.com/user-attachments/assets/efe954a8-183f-4944-a9c9-3e76d1afac1c" />
 
 ---
 
